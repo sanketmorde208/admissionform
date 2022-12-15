@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-include('connection.php');
+include('stud_connection.php');
 ?>
 <html>
 <head>
