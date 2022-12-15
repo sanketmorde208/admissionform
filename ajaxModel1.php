@@ -1,5 +1,5 @@
 <?php  
-include('connection1.php');
+include('studconnection.php');
 $id = $_POST['id'];
 $firstname = $_POST['firstname'];
 $lastname = $_POST['lastname'];
