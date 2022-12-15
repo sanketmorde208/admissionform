@@ -11,7 +11,7 @@
 		 // echo "Connected";
 	}
 	 
-	$softdbname ="registrationdb";
+	$softdbname ="admissiontb";
 	 
 	mysql_select_db($softdbname);  
 ?>
