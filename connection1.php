@@ -10,7 +10,7 @@
  // echo "Connected";
  }
   
- $softdbname ="admission";
+ $softdbname ="admissiontb";
   
  mysql_select_db($softdbname);  
 ?>
